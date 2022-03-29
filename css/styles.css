@@ -44,13 +44,13 @@ hr {
 
 .top-cloud {
   position: absolute;
-  right: 300px;
+  right: 150px;
   top: 40px;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 250px;
+  left: 150px;
   bottom: 300px;
 }
 
